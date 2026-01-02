@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fukushimakaito.github.io/sitemap-index.xml
